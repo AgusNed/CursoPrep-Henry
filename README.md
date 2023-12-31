@@ -1,2 +1,1 @@
-# CursoPrep-Henry
-este es un repositorio del modulo 2
+Este es un proyecto de como crear un repositorio
